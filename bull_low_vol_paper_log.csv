@@ -1,0 +1,2 @@
+timestamp,regime,trend_state,vol_state,market_return_30d,btc_return_30d,market_volatility,historical_vol_median,price_pnl,turnover,fees,equity,funding_pnl,funding_observations
+2026-08-15 00:00:00+00:00,BEAR_LOW_VOL,BEAR,LOW_VOL,-0.01943296296928171,-0.02437445305784225,0.006729378509792254,0.014237848456800099,0.0,0.0,0.0,10000.0,0.0,0.0
