@@ -1,1 +1,2 @@
-
+exit_time,symbol,entry_time,entry_price,exit_price,bars_held,exit_fee,equity_after_exit
+2026-08-19 12:00:00+00:00,AVAX,2026-08-15 00:00:00+00:00,6.756,6.558,12,1.241265783727,9928.885004032274
